@@ -1,13 +1,17 @@
 # Hi, I’m Quynh Pham 👩🏻‍🎓 
 (or you can call me Quinn)
 - 👀 I live for traveling, hiking, and movies 
-- I am enthusiastic about working in the field that I am good at so I can maximize my contribution.
+- 🤟 I am enthusiastic about working in the industry of hospitality.
+- 🧑‍🏫 I am a teacher at heart. 
+- 🕴️ I enjoy set up events and see the joy of my clients when their events launched successfully 
 
-PHONE 949-247-1973
+📱 949-247-1973
 
-EMAIL trucquynh1095@gmail.com
+📧 trucquynh1095@gmail.com
 
-[Website](https://linkedin.com/in/quinnphamtheplanner)
+🖥️ [LinkedIn](https://linkedin.com/in/quinnphamtheplanner)
+
+🖥️ [My Website](https://quinnphamtheplanner.github.io)
 
 # EXPERIENCES:	
 ### Student Assistant - Fullerton College 
@@ -24,7 +28,7 @@ EMAIL trucquynh1095@gmail.com
 * Assisting students with arising problems during class hours
 
 ### School Administrator - Santa Ana Beauty College 
-### 08/2019-08/2020
+#### 08/2019-08/2020
 * Monitoring students’ attendance
 * Preparing all class’ schedules and guest speakers’ schedules
 * Supervising students’ progress and enhancing students’ outcome
@@ -41,7 +45,6 @@ EMAIL trucquynh1095@gmail.com
 * Set-up and breakdown of events
 * Develop social media messages and news blasts
 * Assist with day-to-day administrative office tasks (i.e. phone calls, emails, schedule coordination, notes, pictures, research, data entry, etc.
-
 
 
 # EDUCATION	
@@ -67,7 +70,6 @@ EMAIL trucquynh1095@gmail.com
 * Accepts Responsibility        
 * Understand feelings                 
 
-
 # SKILLS	
 •	Microsoft Words, Excel, PowerPoint
 •	Gmail, Outlook
@@ -75,7 +77,6 @@ EMAIL trucquynh1095@gmail.com
 •	Academic Information Research
 •	Plans and Activities Creation
 •	English and Vietnamese Fluency
-
 
 # VOLUNTEER EXPERIENCES
 ### Nike 10K marathon in Los Angeles (04/22/2018)
