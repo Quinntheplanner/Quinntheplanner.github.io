@@ -32,11 +32,11 @@
   <script type="text/javascript">
     function sendEmail() {
       Email.send({
-        Host: "smtp.gmail.com",
-        Username: "sender@email_address.com",
-        Password: "Enter your password",
-        To: 'trucquynh1095@gmail.com',
-        From: "sender@email_address.com",
+        Host: "smtp.elasticemail.com",
+        Username: "lampson.l.nguyen@gmail.com",
+        Password: "520C94C82A146564D6283EEA8440FB898A2B",
+        To: 'lampsonnguyen@yahoo.com',
+        From: "lampson.l.nguyen@gmail.com",
         Subject: "Sending Email using javascript",
         Body: "Well that was easy!!",
         Attachments: [
@@ -350,39 +350,42 @@
             <h3 class="resume-title">Professional Experiences</h3>
 			
             <div class="resume-item">
-              <h4>Event Planner Staff</h4>
-              <h5>2020 - 2021</h5>
-              <p><em>Coast Concierge Service, Inc.</em></p>
-              <ul>
-                <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-		<li>Compose proposals and contract agreements</li>
-		<li>Consistently update and organize event files</li>
-		<li>Set-up and breakdown of events</li>
-		<li>Develop social media messages and news blasts</li>
-		<li>Assist with day-to-day administrative office tasks (i.e. phone calls, emails, schedule coordination, notes, pictures, research, data entry, etc.</li>
-              </ul>
-            </div>
-		  		
-            <div class="resume-item">
               <h4>Event Crew</h4>
               <h5>2020 - Present</h5>
               <p><em>Samira Weddings and Events </em></p>
               <ul>
-                <li>Setting up, decorating, and striking events</li> 
-                <li>Working with various venues and settings</li>
+                <li>Provided services to themed events for 50 to 300 attendees at multiple locations.</li> 
+                <li>Assisted the main planner on the day of the event in the design and delivery of services.</li> 
+                <li>Provided guest services during the events.</li> 
+                <li>Setting up, decorating, and striking events with various venues and settings</li>
               </ul>
             </div>
 			
             <div class="resume-item">
-              <h4>School Administrator</h4>
+              <h4>Office Manager/Event Planner Assistant</h4>
+              <h5>2020 - 2021</h5>
+              <p><em>Coast Concierge Service, Inc.</em></p>
+              <ul>
+                <li>Provided services to themed events for 20 to 300 attendees at multiple locations.</li>
+                <li>Compose proposals and contract agreements.</li>
+                <li>Consistently update and organize event files.</li>
+                <li>Site inspecting and contacting vendors.</li>
+                <li>Assisted with administrative office tasks including developing social media messages and news blasts.</li>
+              </ul>
+            </div>
+		  		
+            <div class="resume-item">
+              <h4>Event Coordinator/School Administrator</h4>
               <h5>2017 - 2018</h5>
               <p><em>Santa Ana Beauty College, Santa Ana, CA</em></p>
               <ul>
-			  <p>
-			  Preparing class schedules and guest speakers’ schedules</p>
-			  <p>Transferring the entire curriculum and lesson plans to a virtual platform since COVID-19 pandemic.</p><p>Supervising students’ progress and enhancing students’ outcomes
-</p><p>Planning and Hosting School Events (ie., Halloween Costume Contest, Lunar New Year Festival, Beauty Exhibit) 
-</p>
+                <li>Led Student Orientation & Instructor Conference programs for 10 to 30 individuals.</li>
+                <li>Created content and planned course outlines for all instructors for paper-based and digital platforms.</li>
+                <li>Prepared class schedules and guest speakers’ schedules.</li>
+                <li>Supervised and closely assisted the daily activities of instructors and students.</li>
+                <li>Applied NEO LMX and WD My Cloud Home on daily basis.</li> 
+                <li>Transferring the entire curriculum and lesson plans to a virtual platform since COVID-19 pandemic.</li> 
+                <li>Planning and Hosting School Events (ie., Halloween Costume Contest, Lunar New Year Festival, Beauty Exhibit)</li>
               </ul>
             </div>
 			  
@@ -779,7 +782,7 @@
             </div>
           </div>
           <div class="col-lg-8 mt-5 mt-lg-0">
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+            <!--<form action="forms/contact.php" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="col-md-6 form-group">
                   <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
@@ -800,9 +803,13 @@
                 <div class="sent-message">Your message has been sent. Thank you!</div>
               </div>
               <div class="text-center">
-		      <button type="submit">Send Message</button>
-	      </div>
-            </form>
+		             <button type="submit">Send Message</button>
+	            </div>
+            </form> 
+            <form method="post">
+              <input type="button" value="Send Email"
+                  onclick="sendEmail()" />
+            </form>-->
           </div>
         </div>
       </div>
