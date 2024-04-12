@@ -34,7 +34,7 @@
 * Supervising students’ progress and enhancing students’ outcome
 
 ### Event Planning Staff - Samira Weddings and Events
-#### 02/2020 - Present
+#### 02/2020 - 02/2023
 * Setting up, decorating, and striking events
 * Working with various venues and settings
 
