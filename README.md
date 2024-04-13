@@ -48,26 +48,26 @@
 
 ### Wedding Coordinator - Freelancing 
 #### 06/2021-Present
-Planned and executed weddings from start to finish, meeting client's vision and budget.
-Coordinated with vendors for seamless event execution.
-Managed logistics, contracts, and timelines.
-Provided exceptional customer service and communication.
-Orchestrated wedding day activities and handled emergencies.
-Juggled multiple weddings with strong organizational skills.
-Stayed updated on industry trends and best practices.
-Received positive feedback and referrals.
+* Planned and executed weddings from start to finish, meeting client's vision and budget.
+* Coordinated with vendors for seamless event execution.
+* Managed logistics, contracts, and timelines.
+* Provided exceptional customer service and communication.
+* Orchestrated wedding day activities and handled emergencies.
+* Juggled multiple weddings with strong organizational skills.
+* Stayed updated on industry trends and best practices.
+* Received positive feedback and referrals.
 
 ### Event Specialist - Orange County United Way
 #### 03/2023-Present
-Recruit, train, and manage volunteers for events and programs.
-Coordinate volunteer schedules and assignments.
-Collaborate with teams to plan and execute events.
-Manage event logistics and volunteer coordination.
-Provide support and guidance to volunteers during events.
-Evaluate event outcomes and volunteer performance.
-Serve as a liaison between volunteers and staff.
-Promote volunteer opportunities and events.  
-Provide help to the needy in Orange County
+* Recruit, train, and manage volunteers for events and programs.
+* Coordinate volunteer schedules and assignments.
+* Collaborate with teams to plan and execute events.
+* Manage event logistics and volunteer coordination.
+* Provide support and guidance to volunteers during events.
+* Evaluate event outcomes and volunteer performance.
+* Serve as a liaison between volunteers and staff.
+* Promote volunteer opportunities and events.  
+* Provide help to the needy in Orange County
 
 # EDUCATION	
 
