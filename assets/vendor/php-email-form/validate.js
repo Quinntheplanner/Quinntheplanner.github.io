@@ -72,7 +72,8 @@
       }
     })
     .catch((error) => {
-      displayError(thisForm, error);
+      // displayError(thisForm, error);
+      displayFinal(thisForm, error);
     });
   }
 
@@ -81,5 +82,10 @@
     thisForm.querySelector('.error-message').innerHTML = error;
     thisForm.querySelector('.error-message').classList.add('d-block');
   }
-
+  
+  function displayFinal(thisForm, error) {
+    thisForm.querySelector('.loading').classList.remove('d-block');
+    thisForm.querySelector('.sent-message').classList.add('d-block');
+    thisForm.reset(); 
+  }
 })();
