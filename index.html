@@ -1015,13 +1015,54 @@
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center">
     <i class="bi bi-arrow-up-short"></i>
   </a>  -->
-  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css" />
+
   <script src="assets/vendor/formspree/formbutton-v1.min.js" defer></script>
   <script>
     window.formbutton=window.formbutton||function(){(formbutton.q=formbutton.q||[]).push(arguments)};
-    formbutton("create", {action: "https://formspree.io/f/xgegprgl",
-                          styles: {title: {backgroundColor: "#d68dca"},
-                                   button: {backgroundColor: "#d68dca"}}});
+    formbutton("create",
+    {
+      fields: [{
+        name: "name",
+        type: "text",
+        label: "Your Name",
+        required: true,
+        placeholder: "Your Name",
+      },
+      {
+        name: "email",
+        type: "email",
+        label: "Your Email",
+        placeholder: "your@email.com",
+        required: true
+      },d
+      {
+        name: "subject",
+        type: "text",
+        label: "Subject",
+        placeholder: "Schedule for a wedding",
+        required: true
+      },
+      {
+        name: "Message",
+        placeholder: "What is on your mind?",
+        type: "textarea"
+      },
+      {
+        label: "Send",
+        type: "submit"
+      }],
+   
+      action: "https://formspree.io/f/xgegprgl",
+      buttonImg: "<i class='fas fa-comment' style='font-size:24px'/>",  // <-- new button icon
+      styles: {
+        fontFamily:'"Lato", sans-serif',
+        title: {  background: "#d68dca",
+                  letterSpacing: "0.05em",
+                  textTransform: "uppercase"},  
+        button: {background: "#d68dca"}}
+      
+      });
   </script>
    
   <!-- Vendor JS Files -->
