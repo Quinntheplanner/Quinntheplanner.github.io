@@ -11,7 +11,7 @@
 
 🖥️ [LinkedIn](https://linkedin.com/in/quinnphamtheplanner)
 
-🖥️ [My Website](https://quinntheplanner.github.io)
+🖥️ [My Website](http://qphamevents.com/)
 
 # EXPERIENCES:	
 ### Student Assistant - Fullerton College 
