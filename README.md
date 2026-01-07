@@ -7,7 +7,7 @@
 
 📱 949-247-1973
 
-📧 trucquynh1095@gmail.com
+📧 qphamevents@gmail.com
 
 🖥️ [LinkedIn](https://linkedin.com/in/quinnphamtheplanner)
 
