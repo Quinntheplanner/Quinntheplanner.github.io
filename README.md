@@ -9,7 +9,7 @@
 
 📧 qphamevents@gmail.com
 
-🖥️ [LinkedIn](https://linkedin.com/in/quinnphamtheplanner)
+🖥️ [LinkedIn](https://www.linkedin.com/in/qphamevents/)
 
 🖥️ [My Website](http://quinnofevents.com/)
 
